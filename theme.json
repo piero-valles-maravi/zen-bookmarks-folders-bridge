@@ -1,0 +1,22 @@
+{
+  "id": "bookmarks-folders-bridge",
+  "name": "Bookmarks Folders Bridge",
+  "description": "Move folders between the tab sidebar and bookmarks bar, preserving structure.",
+  "author": "pvalles",
+  "version": "1.0.0",
+  "tags": ["folders", "bookmarks", "workspaces", "tabs"],
+  "style": {
+    "chrome": "chrome.css",
+    "content": ""
+  },
+  "scripts": {
+    "main.uc.js": {
+      "name": "Bookmarks Folders Bridge",
+      "description": "Bidirectional folder bridge between tab sidebar and bookmarks bar",
+      "include": ["chrome://browser/content/browser.xhtml"],
+      "loadOrder": 1
+    }
+  },
+  "preferences": "preferences.json",
+  "supportsUnload": false
+}

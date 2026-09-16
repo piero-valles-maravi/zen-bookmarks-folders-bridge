@@ -4,6 +4,9 @@
   "description": "Move folders between the tab sidebar and bookmarks bar, preserving structure.",
   "author": "pvalles",
   "version": "1.0.0",
+  "homepage": "https://github.com/piero-valles-maravi/zen-bookmarks-folders-bridge",
+  "readme": "https://raw.githubusercontent.com/piero-valles-maravi/zen-bookmarks-folders-bridge/main/readme.md",
+  "image": "https://raw.githubusercontent.com/piero-valles-maravi/zen-bookmarks-folders-bridge/main/assets/banner.svg",
   "tags": ["folders", "bookmarks", "workspaces", "tabs"],
   "style": {
     "chrome": "chrome.css",

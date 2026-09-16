@@ -9,6 +9,7 @@
 ![version](https://img.shields.io/badge/versión-1.0.0-6D28D9)
 ![Zen Browser](https://img.shields.io/badge/Zen-Browser-4338CA)
 ![Sine](https://img.shields.io/badge/Sine-mod-F59E0B)
+![license](https://img.shields.io/badge/licencia-MIT-3DA639)
 
 </div>
 
@@ -125,4 +126,4 @@ Desde el gestor de mods de Sine, desactiva o elimina **Bookmarks Folders Bridge*
 
 Creado por **[@piero-valles-maravi](https://github.com/piero-valles-maravi)**.
 
-Publicado como software libre — puedes usarlo, modificarlo y compartirlo. Si le añades una licencia formal, [MIT](https://choosealicense.com/licenses/mit/) es una buena opción para mods de este tipo.
+Publicado bajo la licencia **[MIT](LICENSE)** — puedes usarlo, modificarlo y compartirlo libremente, conservando el aviso de copyright.

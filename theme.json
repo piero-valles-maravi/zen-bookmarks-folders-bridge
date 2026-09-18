@@ -1,12 +1,12 @@
 {
   "id": "bookmarks-folders-bridge",
   "name": "Bookmarks Folders Bridge",
-  "description": "Move folders between the tab sidebar and bookmarks bar, preserving structure.",
+  "description": "Move folders between the tab sidebar and the bookmarks bar, preserving nested structure.",
   "author": "pvalles",
-  "version": "1.0.0",
-  "homepage": "https://github.com/piero-valles-maravi/zen-bookmarks-folders-bridge",
-  "readme": "https://raw.githubusercontent.com/piero-valles-maravi/zen-bookmarks-folders-bridge/main/readme.md",
-  "image": "https://raw.githubusercontent.com/piero-valles-maravi/zen-bookmarks-folders-bridge/main/assets/banner.svg",
+  "version": "1.1.0",
+  "homepage": "https://github.com/piero-valles-maravi/zen-mod-bookmarks-folders-bridge",
+  "readme": "https://raw.githubusercontent.com/piero-valles-maravi/zen-mod-bookmarks-folders-bridge/main/readme.md",
+  "image": "https://raw.githubusercontent.com/piero-valles-maravi/zen-mod-bookmarks-folders-bridge/main/assets/banner.svg",
   "tags": ["folders", "bookmarks", "workspaces", "tabs"],
   "style": {
     "chrome": "chrome.css",

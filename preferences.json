@@ -1,13 +1,13 @@
 [
   {
     "property": "bfbridge.include-empty-tabs",
-    "label": "Incluir pestañas vacías al guardar",
+    "label": "Incluir pestañas vacías al guardar\n*Include empty tabs when saving*",
     "type": "checkbox",
     "defaultValue": false
   },
   {
     "property": "bfbridge.open-tabs-in-background",
-    "label": "Abrir pestañas importadas en segundo plano",
+    "label": "Abrir pestañas importadas en segundo plano\n*Open imported tabs in the background*",
     "type": "checkbox",
     "defaultValue": true
   }

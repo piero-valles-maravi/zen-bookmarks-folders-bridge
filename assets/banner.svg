@@ -67,6 +67,6 @@
     <rect x="130" width="70" height="30" rx="15" fill="#ffffff" fill-opacity="0.16"/>
     <text class="lbl" x="165" y="20" font-size="14" text-anchor="middle">Sine</text>
     <rect x="210" width="80" height="30" rx="15" fill="#ffffff" fill-opacity="0.16"/>
-    <text class="lbl" x="250" y="20" font-size="14" text-anchor="middle">v1.0.0</text>
+    <text class="lbl" x="250" y="20" font-size="14" text-anchor="middle">v1.1.0</text>
   </g>
 </svg>
